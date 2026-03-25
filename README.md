@@ -26,7 +26,3 @@ I’m an energy systems modeller and data practitioner with a strong focus on bu
 ### 🛠️ Tools & Technologies
 
 `Python` • `PyPSA` • `GeoPandas` • `OpenStreetMap` • `Overpass API` • `Snakemake` • `PostgreSQL` • `R`
-
-### 📫 Connect with Me
-
-* LinkedIn: https://www.linkedin.com/in/mwiche-simpemba-2b1628a0/
